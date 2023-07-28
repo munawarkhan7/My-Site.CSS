@@ -90,7 +90,12 @@ padding: 50px 0 20px;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-.pro {text-decoration: underline;
+
+.web {
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  font-family: Montserrat, sans-serif;
 }
 .top-cloud {
 margin: 40px 0 0 40%;
@@ -108,14 +113,14 @@ margin: 40px 0 0 40%;
 .img-web {
   width: 25%;
   float: left;
-margin-right: 30px;
+  margin-right: 30px;
 }
 .img-graphic {
   width: 25%;
   float: right;
 margin-left: 30px;
 }
-.img-games {
+.img-data {
   width: 25%;
   float: left;
 margin-right: 30px;
